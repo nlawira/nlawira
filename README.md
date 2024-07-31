@@ -5,9 +5,9 @@
 </a>
 
 ## 🚀 About Me
-I am currently a Chemical & Biomolecular Engineering undergraduate from Nanyang Technological University, graduating in July 2024, with a passion for data analysis, software engineering, and programming! I am always looking to enhance my skills in these fields by taking online courses and putting them into practice by initiating projects and showcasing them on my GitHub profile! Please refer to the repositories under the `Pinned` section for those that I am showcasing!
+I am a Chemical & Biomolecular Engineering graduate from Nanyang Technological University, passionate about data analysis, software engineering, and programming! I am always looking to enhance my skills in these fields by taking online courses and putting them into practice by initiating projects and showcasing them on my GitHub profile! Please refer to the repositories under the `Pinned` section for those I showcase!
 
-- 🏫 I am currently studying at **Nanyang Technological University (Singapore)**
+- 🏫 I am a graduate from **Nanyang Technological University (Singapore)** with **Honours (Highest Distinction)** and **Dean's List for Academic Year 2023-2024!**
 - ✏️ I’m currently working on **India's House Rent Prediction** (Refer to my GitHub repositories)
 - 📓 I’m currently learning **Data Science, Machine Learning and Artificial Intelligence**
 - 📫 How to reach me: **My Email and LinkedIn** (Refer to "Connect with Me!" below)
