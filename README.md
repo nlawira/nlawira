@@ -9,7 +9,7 @@ I am a Chemical & Biomolecular Engineering graduate from Nanyang Technological U
 
 - 🏫 I am a graduate from **Nanyang Technological University (Singapore)** with **Honours (Highest Distinction)** and **Dean's List for Academic Year 2023-2024!**
 - ✏️ I’m currently working on **India's House Rent Prediction** (Refer to my GitHub repositories).
-- 📓 I’m currently learning **Data Science, Machine Learning and Artificial Intelligence.**
+- 📓 I’m currently learning **Data Science**, **Machine Learning** and **Artificial Intelligence.**
 - 📫 How to reach me: **My Email and LinkedIn** (Refer to "Connect with Me!" below).
 - ⚡ Fun fact: **My favorite types of cuisine are Indonesian, Korean, and Japanese cuisines!**
 
