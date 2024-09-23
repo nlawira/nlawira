@@ -7,10 +7,11 @@
 ## 🚀 About Me
 I am an engineering graduate from Nanyang Technological University, passionate about data analysis, software engineering, and programming! I am always looking to enhance my skills in these fields by taking online courses and putting them into practice by initiating projects and showcasing them on my GitHub profile! Please refer to the repositories under the `Pinned` section for those I showcase!
 
-- 🏫 I am a graduate from **Nanyang Technological University (Singapore)** with **Honours (Highest Distinction)** and **Dean's List for Academic Year 2023-2024!**
-- ✏️ I’m currently working on **New Projects** (coming soon)!
-- 📓 I’m currently learning **Data Science**, **Machine Learning** and **Artificial Intelligence.**
-- 📫 How to reach me: **My Email and LinkedIn** (Refer to "Connect with Me!" below).
+- 🏫 Graduated from **Nanyang Technological University (Singapore)** with **Honours (Highest Distinction)** and **Dean's List for Academic Year 2023-2024!**
+- 🧑‍💼 Will be working as an **Automation Engineer** at **Pfizer Asia Manufacturing Pte. Ltd.**
+- ✏️ Working on **New Projects** (coming soon)!
+- 📓 Learning **Data Science**, **Machine Learning** and **Artificial Intelligence.**
+- 📫 How to reach me: **Email and LinkedIn** (Refer to "Connect with Me!" below).
 - ⚡ Fun fact: **My favorite types of cuisine are Indonesian, Korean, and Japanese cuisines!**
 
 ## 🛠️ Technologies & Tools
