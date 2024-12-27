@@ -9,7 +9,7 @@ I am an engineering graduate from Nanyang Technological University, passionate a
 
 - 🏫 Graduated from **Nanyang Technological University (Singapore)** with **Honours (Highest Distinction)** and **Dean's List for Academic Year 2023-2024!**
 - 🧑‍💼 Working as an **Automation Engineer** at **Pfizer Asia Manufacturing Pte. Ltd.**
-- 📓 Learning **Data Science**, **Machine Learning** and **Artificial Intelligence.**
+- 📓 Learning **Software Engineering**, **Data Science**, and **Machine Learning**.
 - 📫 How to reach me: **Email and LinkedIn** (Refer to "Connect with Me!" below).
 - ⚡ Fun fact: **My favorite types of cuisine are Indonesian, Korean, and Japanese cuisines!**
 
