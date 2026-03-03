@@ -45,11 +45,6 @@ I am an engineering graduate from Nanyang Technological University, passionate a
   <img src="https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi" alt="Microsoft Power BI" style="height: 40px;"/>
 </a>
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=nlawira&show_icons=true&theme=vue)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nlawira&layout=compact&theme=vue)
-
 ## 📫 Connect with Me!
 <a href="https://www.linkedin.com/in/nathan-lawira/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=Linkedin" alt="LinkedIn" style="height: 30px;"/>
