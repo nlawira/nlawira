@@ -5,11 +5,11 @@
 </a>
 
 ## 🚀 About Me
-I am an engineering graduate from Nanyang Technological University, passionate about programming and computer science! I am always looking to enhance my skills in these fields by putting them into practice through self-initiated projects and showcasing them on my GitHub profile! Please refer to the repositories under the **Pinned** section.
+I am an engineering graduate from Nanyang Technological University, passionate about programming, technology, and computer science! I am always looking to enhance my skills in these fields by putting them into practice through self-initiated projects and showcasing them on my GitHub profile! Please refer to the repositories under the **Pinned** section.
 
 - 🏫 Graduated from **Nanyang Technological University (Singapore)** with **Honours (Highest Distinction)**, **Specialization in Intellectual Property**, and **Dean's List Award!**
 - 🧑‍💼 Working as an **Automation Engineer** at **Pfizer Asia Manufacturing Pte. Ltd.**
-- 📓 Learning **Computer Science**, **Programming, **Data Science**, and **Cybersecurity**.
+- 📓 Learning **Computer Science**, **Programming, **Data Science**, **Cybersecurity**, and **AI**.
 - 📫 How to reach me: **Email and LinkedIn** (Refer to "Connect with Me!" below).
 - ⚡ Fun fact: **My favorite types of cuisine are Indonesian, Korean, and Japanese cuisines!**
 
@@ -20,8 +20,13 @@ I am an engineering graduate from Nanyang Technological University, passionate a
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql" alt="SQL" style="height: 40px;"/>
 </a>
+
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+  <img src="https://img.shields.io/badge/-C#-333333?style=flat&logo=cplusplus" alt="C#" style="height: 40px;"/>
+</a>
+
 <a href="https://isocpp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B" alt="C++" style="height: 40px;"/>
+  <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus" alt="C++" style="height: 40px;"/>
 </a>
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="https://img.shields.io/badge/-Microsoft%20Excel-333333?style=flat&logo=microsoft-excel" alt="Microsoft Excel" style="height: 40px;"/>
