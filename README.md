@@ -14,38 +14,47 @@ I am an engineering graduate from Nanyang Technological University, passionate a
 - ⚡ Fun fact: **My favorite types of cuisine are Indonesian, Korean, and Japanese cuisines!**
 
 ## 🛠️ Technologies & Tools
+<!-- Python -->
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python" style="height: 40px;"/>
 </a>
+<!-- C# -->
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
+  <img src="https://img.shields.io/badge/-C%23-333333?style=flat&logo=c" alt="C#" style="height: 40px;"/>
+</a>
+<!-- SQL -->
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql" alt="SQL" style="height: 40px;"/>
 </a>
-
-<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank">
-  <img src="https://img.shields.io/badge/-C#-333333?style=flat&logo=cplusplus" alt="C#" style="height: 40px;"/>
-</a>
-
+<!-- C++ -->
 <a href="https://isocpp.org/" target="_blank">
   <img src="https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus" alt="C++" style="height: 40px;"/>
 </a>
+<!-- Excel -->
 <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank">
   <img src="https://img.shields.io/badge/-Microsoft%20Excel-333333?style=flat&logo=microsoft-excel" alt="Microsoft Excel" style="height: 40px;"/>
 </a>
+<!-- Microsoft VSCode -->
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code" alt="VS Code" style="height: 40px;"/>
 </a>
+<!-- MATLAB -->
 <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
   <img src="https://img.shields.io/badge/-MATLAB-333333?style=flat&logo=matlab" alt="MATLAB" style="height: 40px;"/>
 </a>
+<!-- Jupyter -->
 <a href="https://jupyter.org/" target="_blank">
   <img src="https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=jupyter" alt="Jupyter Notebook" style="height: 40px;"/>
 </a>
+<!-- GitHub -->
 <a href="https://github.com/" target="_blank">
   <img src="https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github" alt="GitHub" style="height: 40px;"/>
 </a>
+<!-- Git -->
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" style="height: 40px;"/>
 </a>
+<!-- PowerBI -->
 <a href="https://powerbi.microsoft.com/" target="_blank">
   <img src="https://img.shields.io/badge/-Power%20BI-333333?style=flat&logo=power-bi" alt="Microsoft Power BI" style="height: 40px;"/>
 </a>
